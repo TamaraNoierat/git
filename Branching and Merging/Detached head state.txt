@@ -1,0 +1,22 @@
+1-git status
+
+
+2-git log --oneline --graph --all
+  
+
+
+3-git checkout -b master 6522ad9
+
+
+4-git checkout 0250974
+
+
+5-git checkout -b the-beginning
+
+
+6-git status
+
+
+7- git log --oneline --graph --all
+
+
